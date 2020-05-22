@@ -682,7 +682,8 @@ ul.thumbnails li img { width:100px; min-height:65px; }
   #header h1 a, 
   #header h2,
   .navlinks li a:hover,
-  .ver
+  .ver,
+  #sidebar p
   {
     color: #fff;
   }
