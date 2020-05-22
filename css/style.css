@@ -644,7 +644,7 @@ ul.thumbnails li img { width:100px; min-height:65px; }
 
 @media (max-width: 800px) {
 	body {
-		font-size: 12px;
+		font-size: 14px;
 	}
 
 	#wrapper, 
