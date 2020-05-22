@@ -673,14 +673,17 @@ ul.thumbnails li img { width:100px; min-height:65px; }
 
 @media screen and (prefers-color-scheme: dark) {
   body {
-    background-color: #000;
+    background-color: #111;
     color: #fff;
   }
 
   h1, h2, h3, h4,
   a,
   #header h1 a, 
-  #header h2 {
+  #header h2,
+  .navlinks li a:hover,
+  .ver
+  {
     color: #fff;
   }
 
