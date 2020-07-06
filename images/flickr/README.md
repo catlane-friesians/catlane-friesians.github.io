@@ -1,0 +1,1 @@
+/https:\/\/farm([0-9]+)\.static.flickr.com\/([0-9]+)\/([0-9_a-z]+)\.jpg/g
